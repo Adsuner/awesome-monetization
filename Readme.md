@@ -49,6 +49,14 @@
 
 <br/>
 
+### Telegram Mini App and Bot Ads
+
+<br/>
+
+- [Adsun](https://adsun.io/) - Advertising for Telegram Mini Apps, bot messages, and channels.
+
+<br/>
+
 ### Ads you make
 
 <br/>
